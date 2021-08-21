@@ -1,0 +1,39 @@
+{
+  "languages": {
+    "en": "English",
+    "nl": "Dutch"
+  },
+  "navbar": {
+    "imgAlt": {
+      "burger": "Menu"
+    },
+    "links": {
+      "home": "Home",
+      "app": "App",
+      "about": "About",
+      "creative": "Creative",
+      "shopDesktop": "Shop Now",
+      "shopMobile": "Shop"
+    }
+  },
+  "frameColors": {
+    "oak": "Solid Oak",
+    "walnut": "Solid Walnut",
+    "white": "White",
+    "black": "Black"
+  },
+  "footer": {
+    "followUs": {
+      "title": "Follow us"
+    },
+    "navigation": {
+      "title": "Navigation"
+    },
+    "contact": {
+      "title": "Contact"
+    },
+    "language": "Language",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy"
+  }
+}

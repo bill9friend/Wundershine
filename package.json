@@ -1,0 +1,55 @@
+{
+  "name": "wundershine-web-app",
+  "version": "0.1.0",
+  "main": "src/server.js",
+  "repository": "https://github.com/bill9friend/wundershine",
+  "author": "Ivan Cherkas <ivancharkas9@gmail.com>",
+  "license": "UNLICENSED",
+  "engineStrict": true,
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "lint": "eslint src && jsonlint-cli src/static/locales/*/*.json",
+    "lint:fix": "eslint src --fix",
+    "build": "next build",
+    "start": "next start"
+  },
+  "pre-commit": [
+    "lint"
+  ],
+  "dependencies": {
+    "compression": "^1.7.3",
+    "date-fns": "^1.29.0",
+    "express": "4.16.3",
+    "i18next": "11.9.0",
+    "i18next-browser-languagedetector": "2.2.3",
+    "i18next-express-middleware": "1.4.0",
+    "i18next-node-fs-backend": "2.1.0",
+    "i18next-xhr-backend": "1.5.1",
+    "jsonlint-cli": "^1.0.1",
+    "next": "^10.0.0",
+    "next-i18next": "^7.0.1",
+    "react": "^17.0.1",
+    "react-aspect-ratio": "^1.0.31",
+    "react-burger-menu": "^2.5.3",
+    "react-dom": "^17.0.1",
+    "react-dropdown": "^1.6.2",
+    "react-flexbox-grid": "^2.1.2",
+    "react-i18next": "8.0.6",
+    "react-tooltip": "^3.9.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-decorators": "^7.1.2",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-module-resolver": "^3.1.1",
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1",
+    "nodemon": "^1.18.4",
+    "pre-commit": "^1.2.2"
+  }
+}

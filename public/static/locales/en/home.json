@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Smart Picture Framing",
+    "description": "Wundershine makes it extremely easy to get a feed of fresh pictures and digital art from your smartphone or camera to the walls of your home. Display your photos in high quality, stylish picture frames in solid oak, solid walnut, black or white finish."
+  },
+  "smartFraming": {
+    "title": "Smart picture framing",
+    "description": "Wundershine makes it extremely easy to get a feed of fresh pictures and digital art from your smartphone or camera to the walls of your home."
+  },
+  "refresh": {
+    "title": "Refresh at will",
+    "description": "Your pictures will finally get their moment in the sun. No need to take frames off the wall and mess around with rulers, calculators, paper cutters, metal clips, or sticky tape."
+  },
+  "easyLoading": {
+    "title": "Easy loading slot",
+    "description": "Hidden slot at the bottom for one-step swapping. Recessed shape for easy removal."
+  },
+  "reframe": {
+    "title": "The Reframe",
+    "description": "Premium quality natural wood. An internal stack of shaped layers guides and clamps the print in place."
+  },
+  "compatibility": {
+    "title": "Compatible prints delivered to your home",
+    "description": "Your best pictures will no longer get lost between thousands of screenshots, folders, and apps on multiple devices. Browse your beautiful large prints and keep special moments alive."
+  },
+  "whatsShowing": {
+    "title": "What's showing?",
+    "description": "A fresh picture for any occasion.",
+    "hashtags": "#christmas #dreamingofawhite #annaiscomingover #reunion"
+  },
+  "playlist": {
+    "title": "Create a playlist for your wall",
+    "description": "Use the app to add pictures to your Queue over time. Share from apps like Instagram and Google Photos. The beautiful photo that you took with your digital camera can be added as well."
+  },
+  "addToQueue": {
+    "title": "Add to your queue anytime",
+    "description": "Ensure a picture will feature on your living room wall later with just two taps. No need to order prints right then."
+  },
+  "orderPack": {
+    "title": "Order a pack of prints when you’re ready",
+    "description": "Our gallery quality prints are printed on premium card stock with a lustre finish. All Reframe purchases include a discount code for a free 5-pack, including global shipping."
+  },
+  "addPhotos": {
+    "title": "Add photos from your digital camera",
+    "description": "Upload to Google Photos, iCloud or another cloud service and select shots for your Reframe with the Wundershine app."
+  },
+  "layoutFreedom": {
+    "title": "Complete layout freedom",
+    "description": "Use the intuitive pinch zoom tools in the app for cropping and resizing. You can keep full portrait or landscape images and import collages. Prints and layouts will always fit the Reframe perfectly."
+  },
+  "showcase": {
+    "title": "Showcase art created with third party apps",
+    "description": "With the latest creative apps in the app stores, you can turn your photos or ideas into sophisticated and decorative art with just a few taps. Just hit share in these apps to add your masterpiece to your Wundershine queue."
+  },
+  "cta": {
+    "title": "Get started",
+    "description": "When you place an order for a Reframe, you will promptly receive an email with a personal discount code that you can redeem in the mobile app to get your first print pack for free!",
+    "shopNow": "Shop Now"
+  },
+  "products": {
+    "reframe": {
+      "title": "Reframe",
+      "description": "Ideal starter kit and gift. Includes discount code for 5 free prints."
+    },
+    "reframeThreePack": {
+      "title": "Reframe 3-Pack",
+      "description": "Save 16% per Reframe. Includes discount code for 15 free prints."
+    }
+  },
+  "limitedSupply": {
+    "title": "A perfect gift",
+    "description": "The Reframe is a popular gift as well. The recipient or the giver can use the discount code to order the free prints. Let us know via mail or chat if you have any questions concerning a (gift) order or current delivery times."
+  }
+}

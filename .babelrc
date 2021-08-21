@@ -1,0 +1,72 @@
+{
+  "env": {
+    "development": {
+      "presets": [
+        "next/babel"
+      ],
+      "plugins": [
+        [
+          "module-resolver",
+          {
+            "root": [
+              "./src"
+            ],
+            "alias": {
+              "react-flexbox-grid": "react-flexbox-grid/dist/react-flexbox-grid",
+              "react-flexbox-css": "react-flexbox-grid/dist/react-flexbox-grid.css"
+            }
+          }
+        ],
+        [
+          "@babel/plugin-proposal-decorators",
+          {
+            "legacy": true
+          }
+        ]
+      ]
+    },
+    "production": {
+      "presets": [
+        "next/babel"
+      ],
+      "plugins": [
+        [
+          "module-resolver",
+          {
+            "root": [
+              "./src"
+            ],
+            "alias": {
+              "react-flexbox-grid": "react-flexbox-grid/dist/react-flexbox-grid",
+              "react-flexbox-css": "react-flexbox-grid/dist/react-flexbox-grid.css"
+            }
+          }
+        ],
+        [
+          "@babel/plugin-proposal-decorators",
+          {
+            "legacy": true
+          }
+        ]
+      ]
+    },
+    "test": {
+      "presets": [
+        [
+          "next/babel",
+          {
+            "preset-env": {
+              "modules": "commonjs"
+            }
+          }
+        ],
+        [
+          "@babel/plugin-proposal-decorators",
+          {
+            "legacy": true
+          }
+        ]
+      ]
+    }
+  }
+}

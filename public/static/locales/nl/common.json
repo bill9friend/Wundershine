@@ -1,0 +1,39 @@
+{
+  "languages": {
+    "en": "Engels",
+    "nl": "Nederlands"
+  },
+  "navbar": {
+    "imgAlt": {
+      "burger": "Menu"
+    },
+    "links": {
+      "home": "Home",
+      "app": "App",
+      "about": "Over ons",
+      "creative": "Creatief",
+      "shopDesktop": "Shop",
+      "shopMobile": "Shop"
+    }
+  },
+  "frameColors": {
+    "oak": "Massief eiken",
+    "walnut": "Massief walnoot",
+    "white": "Wit",
+    "black": "Zwart"
+  },
+  "footer": {
+    "followUs": {
+      "title": "Volg ons"
+    },
+    "navigation": {
+      "title": "Navigatie"
+    },
+    "contact": {
+      "title": "Contact"
+    },
+    "language": "Taal",
+    "termsOfService": "Voorwaarden",
+    "privacyPolicy": "Privacyverklaring"
+  }
+}
